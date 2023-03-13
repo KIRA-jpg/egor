@@ -1,5 +1,6 @@
 div{
     height: 1500px;
     width: 1500px;
-    background-color: coral;
+    background-color: rgb(243, 159, 129);
+    border-radius: 4%;
 }
