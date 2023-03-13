@@ -1,5 +1,5 @@
 p{
     color: rgba(223, 193, 28, 0.9);
-    align-items: center;
-    justify-content: center;
+  text-align: center;
+  box-shadow: 10px 5px 5px red;
 }
